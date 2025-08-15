@@ -180,7 +180,7 @@ export default function AgentInterface() {
               placeholder="Type your message..."
               value={messageInput}
               onChange={(e) => setMessageInput(e.target.value)}
-              className="flex-1 p-4 border border-gray-300 rounded-xl focus:outline-none focus:ring-2 focus:ring-insurge-primary focus:border-transparent text-base"
+              className="flex-1 p-4 border border-gray-300 rounded-xl focus:outline-none focus:ring-2 focus:ring-insurge-primary focus:border-transparent text-base text-black"
             />
             <button className="bg-gradient-insurge text-white p-4 rounded-xl hover:opacity-90 transition-opacity shadow-lg">
               <Send className="w-6 h-6" />
