@@ -154,6 +154,10 @@ Custom animations are defined in `globals.css` and can be extended:
 
 ## 🚀 Deployment
 
+### Live Deployment
+The latest version of this project is deployed at:
+**https://elaborate-hummingbird-107358.netlify.app/**
+
 ### Vercel (Recommended)
 ```bash
 npm run build
